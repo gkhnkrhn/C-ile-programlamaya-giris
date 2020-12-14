@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+	int a = 5;
+	
+    printf("Tam sayı değişkeninin değeri: %d", a);
+    
+    return 0;
+}
